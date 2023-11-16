@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">551723621489</string>
+    <string name="google_api_key" translatable="false">AIzaSyCyUdOSoHZd5wUy0yYB1Ut_7yEgNB4iDg4</string>
+    <string name="google_app_id" translatable="false">1:551723621489:android:3bd6416d25adefe864cfd0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCyUdOSoHZd5wUy0yYB1Ut_7yEgNB4iDg4</string>
+    <string name="google_storage_bucket" translatable="false">budgetbuddy-d723b.appspot.com</string>
+    <string name="project_id" translatable="false">budgetbuddy-d723b</string>
+</resources>

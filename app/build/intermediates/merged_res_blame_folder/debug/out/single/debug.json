@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_spinner_drawable.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/spinner_drawable.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_bottom_sheet_rounded_corner.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/bottom_sheet_rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_medical.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/medical.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_list_item.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_currency_rupee_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_currency_rupee_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_entertainment.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/entertainment.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/font_poppins_thin.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/font/poppins_thin.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/menu_home.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/menu/home.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_login_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_book.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/book.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_internet.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/internet.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-anydpi_ic_delete.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-anydpi/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_rupee.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/rupee.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_travel.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/travel.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_analytics_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_analytics_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_recycler_item_view.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/recycler_item_view.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_circular_image.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/circular_image.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/anim_scale_down.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/anim/scale_down.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_water.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/water.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_history_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_forget_password.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_gradient.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_appmoto.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/appmoto.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_clothing.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/clothing.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_newicon.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/newicon.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/menu_my_menu.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/menu/my_menu.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/anim_scale_up.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_list_item_edit.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/list_item_edit.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-mdpi_ic_delete_custom.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-mdpi/ic_delete_custom.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/color_my_choice_chip_background_color.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/color/my_choice_chip_background_color.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_burger.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/burger.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_filter_alt_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_filter_alt_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_custom_bottom_sheet_edit.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/custom_bottom_sheet_edit.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/font_poppins_bold.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/font/poppins_bold.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/font_ibm_plex_sans_medium.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/font/ibm_plex_sans_medium.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-mdpi_ic_delete.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_mainimage.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/mainimage.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_recycler.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/font_poppins.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/font/poppins.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_rent.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/rent.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-hdpi_ic_delete_custom.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-hdpi/ic_delete_custom.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_image.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/image.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_electricity.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/electricity.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_login_or_sign_up.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_login_or_sign_up.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_forget_pass.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_forget_pass.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_insurance.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/insurance.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_delete_icon.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/delete_icon.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_card_gradient.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/card_gradient.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_custom_bottom_sheet_dialog.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/custom_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-anydpi_ic_delete_custom.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-anydpi/ic_delete_custom.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.budgetbuddy.app-pngs-46:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_grocery.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/grocery.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_activity_main_home.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/activity_main_home.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_sort_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_sort_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-xxhdpi_ic_delete_custom.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-xxhdpi/ic_delete_custom.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_launchimage.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/launchimage.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_fragment_transactions.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/fragment_transactions.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable_ic_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable/ic_baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/layout_fragment_analysis.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/layout/fragment_analysis.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_wallet_icon.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/wallet_icon.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_credit.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/credit.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/color_icon_tints.xml.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/color/icon_tints.xml"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/drawable-xhdpi_ic_delete_custom.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/drawable-xhdpi/ic_delete_custom.png"
+    },
+    {
+        "merged": "com.example.budgetbuddy.app-merged_res-51:/raw_gift.png.flat",
+        "source": "com.example.budgetbuddy.app-main-53:/raw/gift.png"
+    }
+]
